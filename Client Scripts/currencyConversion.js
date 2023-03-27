@@ -15,4 +15,6 @@ function onSubmit() {
     }
 
 }
-                             
+ 
+//[link to the script include](https://github.com/suryakantshoor/servicenowpdi/blob/2fc59e7a76b8199cec929286e359a13db2ae68a3/Client%20Scripts/currencyConversion.js)
+
